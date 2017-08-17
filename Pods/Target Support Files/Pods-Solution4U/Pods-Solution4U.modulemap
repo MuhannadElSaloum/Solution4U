@@ -1,0 +1,6 @@
+framework module Pods_Solution4U {
+  umbrella header "Pods-Solution4U-umbrella.h"
+
+  export *
+  module * { export * }
+}
